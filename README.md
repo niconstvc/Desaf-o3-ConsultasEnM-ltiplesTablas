@@ -1,2 +1,2 @@
-# Desafio3-ConsultasEnM-ltiplesTablas
+# Desafio3-ConsultasEnMultiplesTablas
 SQL
